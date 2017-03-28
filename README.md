@@ -7,4 +7,5 @@ More about Mazzanine and Cartridge
 ------------------------------------
 
 Mezzanine - Django CMS: http://mezzanine.jupo.org/
+
 Cartridge: http://cartridge.jupo.org/
