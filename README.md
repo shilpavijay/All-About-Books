@@ -1,7 +1,7 @@
 All About Books
 ----------------
 
-This is a Content Management System built using Django Framework. This CMS is for Books which also has an implemented shopping cart. Mezzanine and Cartridge are used here.
+This is a Content Management System built using Django Framework. This CMS is for Books which also has a shopping cart. Mezzanine and Cartridge are used here.
 
 More about Mazzanine and Cartridge
 ------------------------------------
